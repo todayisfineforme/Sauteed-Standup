@@ -1,68 +1,43 @@
 const upcomingDates = [
     {
         year: 2022,
-        month : 2,
-        day: 19
-    },
-    {
-        year: 2022,
-        month : 3,
-        day: 2
-    },
-    {
-        year: 2022,
-        month : 4,
-        day: 0
-    },
-    {
-        year: 2022,
-        month : 4,
-        day: 14
-    },
-    {
-        year: 2022,
-        month : 5,
+        month : 8,
         day: 4
     },
     {
         year: 2022,
-        month : 5,
+        month : 8,
         day: 18
     },
     {
         year: 2022,
-        month : 6,
+        month : 9,
+        day: 2
+    },
+    {
+        year: 2022,
+        month : 9,
         day: 16
     },
     {
         year: 2022,
-        month : 7,
+        month : 10,
         day: 6
     },
     {
         year: 2022,
-        month : 7,
+        month : 10,
         day: 20
     },
     {
         year: 2022,
-        month : 8,
-        day: 3
+        month : 11,
+        day: 4
     },
     {
         year: 2022,
-        month : 8,
-        day: 17
-    },
-    {
-        year: 2022,
-        month : 9,
-        day: 1
-    },
-    {
-        year: 2022,
-        month : 9,
-        day: 15
+        month : 11,
+        day: 18
     }
 ];
 
