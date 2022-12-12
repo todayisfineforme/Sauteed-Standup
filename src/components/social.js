@@ -9,7 +9,7 @@ function Social(props){
         <Container className={props.containerSpace} fluid>
             <Row className={props.space +" justify-content-center"}>
                 <Col xs={{span:3}}>
-                    <a href="https://www.instagram.com/sauteed_standup/" rel="noreferrer" target="_blank"><Image src={instagramLogo} fluid/></a>
+                    <a href="https://www.instagram.com/sauteedstandup/" rel="noreferrer" target="_blank"><Image src={instagramLogo} fluid/></a>
                 </Col>
                 <Col xs={{span:3}}>
                     <a href="https://www.tiktok.com/@sauteedstandup" rel="noreferrer" target="_blank"><Image src={tiktokLogo} fluid/></a>
