@@ -1,4 +1,48 @@
-.landing-menu{
+.App {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    color: white;
+    /* max-height: 100%; */
+    /* overflow: hidden; */
+    /* max-width: 100vw; */
+    /* padding: 0%; */
+  }
+
+  @media (max-width: 991px) {
+    .App {
+      overflow: scroll;
+    }
+  }
+  
+
+h1{
+    font-size: 7vh;
+}
+
+h2{
+    font-size: 5vh;
+    font-weight: lighter;
+}
+
+h1 span{
+    display: inline-block;
+}
+
+body {
+    margin: 0;
+    font-family: 'Barlow Condensed', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: black;
+    color: white;
     text-align: center;
-    vertical-align: middle;
+  }
+
+.Row{
+    max-height: 100vw;
 }
