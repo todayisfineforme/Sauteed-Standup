@@ -33,7 +33,7 @@ function Tickets(props){
                 <h1>Next Show is:</h1>
             </Row>
             <Row className={props.rowSpace}>
-                <Button variant="outline-light" size="lg" href="https://www.eventbrite.com/e/sauteed-standup-tickets-255522774497" target="_blank"><h1>Sunday <span>{nextShow}</span></h1></Button>
+                <Button variant="outline-light" size="lg" href="https://www.eventbrite.com/e/sauteed-standup-tickets-255522774497?aff=oddtdtcreator" target="_blank"><h1>Sunday <span>{nextShow}</span></h1></Button>
             </Row>
         </Container>
     );

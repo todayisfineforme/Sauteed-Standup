@@ -108,6 +108,66 @@ const upcomingDates = [
         year: 2023,
         month : 5,
         day: 18
+    },
+    {
+        year: 2023,
+        month : 6,
+        day: 2
+    },
+    {
+        year: 2023,
+        month : 6,
+        day: 16
+    },
+    {
+        year: 2023,
+        month : 7,
+        day: 6
+    },
+    {
+        year: 2023,
+        month : 7,
+        day: 20
+    },
+    {
+        year: 2023,
+        month : 8,
+        day: 3
+    },
+    {
+        year: 2023,
+        month : 8,
+        day: 17
+    },
+    {
+        year: 2023,
+        month : 9,
+        day: 1
+    },
+    {
+        year: 2023,
+        month : 9,
+        day: 15
+    },
+    {
+        year: 2023,
+        month : 10,
+        day: 5
+    },
+    {
+        year: 2023,
+        month : 10,
+        day: 19
+    },
+    {
+        year: 2023,
+        month : 11,
+        day: 3
+    },
+    {
+        year: 2023,
+        month : 11,
+        day: 17
     }
 ];
 
