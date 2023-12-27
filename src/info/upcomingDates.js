@@ -168,6 +168,136 @@ const upcomingDates = [
         year: 2023,
         month : 11,
         day: 17
+    },
+    {
+        year: 2024,
+        month : 0,
+        day: 7
+    },
+    {
+        year: 2024,
+        month : 0,
+        day: 14
+    },
+    {
+        year: 2024,
+        month : 0,
+        day: 21
+    },
+    {
+        year: 2024,
+        month : 0,
+        day: 28
+    },
+    {
+        year: 2024,
+        month : 1,
+        day: 4
+    },
+    {
+        year: 2024,
+        month : 1,
+        day: 18
+    },
+    {
+        year: 2024,
+        month : 2,
+        day: 3
+    },
+    {
+        year: 2024,
+        month : 2,
+        day: 17
+    },
+    {
+        year: 2024,
+        month : 3,
+        day: 7
+    },
+    {
+        year: 2024,
+        month : 3,
+        day: 21
+    },
+    {
+        year: 2024,
+        month : 4,
+        day: 5
+    },
+    {
+        year: 2024,
+        month : 4,
+        day: 19
+    },
+    {
+        year: 2024,
+        month : 5,
+        day: 2
+    },
+    {
+        year: 2024,
+        month : 5,
+        day: 16
+    },
+    {
+        year: 2024,
+        month : 6,
+        day: 7
+    },
+    {
+        year: 2024,
+        month : 6,
+        day: 21
+    },
+    {
+        year: 2024,
+        month : 7,
+        day: 4
+    },
+    {
+        year: 2024,
+        month : 7,
+        day: 18
+    },
+    {
+        year: 2024,
+        month : 8,
+        day: 1
+    },
+    {
+        year: 2024,
+        month : 8,
+        day: 15
+    },
+    {
+        year: 2024,
+        month : 9,
+        day: 6
+    },
+    {
+        year: 2024,
+        month : 9,
+        day: 20
+    },
+    {
+        year: 2024,
+        month : 10,
+        day: 3
+    },
+    {
+        year: 2024,
+        month : 10,
+        day: 17
+    },
+    {
+        year: 2024,
+        month : 11,
+        day: 1
+    },
+    {
+        year: 2024,
+        month : 11,
+        day: 15
     }
 ];
 
